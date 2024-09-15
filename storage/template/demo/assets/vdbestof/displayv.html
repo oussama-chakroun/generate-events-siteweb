@@ -1,0 +1,153 @@
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>filterable responsive lightbox gallery tutorial</title>
+
+    <!-- magnific-popup css cdn link  -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/magnific-popup.js/1.1.0/magnific-popup.min.css">
+
+    <!-- custom css file link  -->
+    <script src="https://code.jquery.com/jquery-3.7.0.min.js" integrity="sha256-2Pmvv0kuTBOenSvLm6bvfBSSHrUJ+3A7x6P5Ebd07/g=" crossorigin="anonymous"></script>
+    <link rel="stylesheet" href="./style.css">
+
+</head>
+<body>
+
+
+<div class="gallery">
+
+    <ul class="controls">
+        
+        <li class="buttons active" data-filter="ice-cream"  onclick="gomeditig()">  Gallery </li>
+        <li  class="buttons " data-filter="all" onclick="gomeditig2()">Accueil</li>
+
+     </ul>
+
+
+     <iframe style="width: 80vw;
+     height: 57vw;
+     margin: 0 10vw;" id="myVideo"  src="../vdbestof/best-of.mp4" frameborder="0"></iframe>
+
+</div>
+
+
+<!-- jquery cdn link  -->
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+
+<!-- magnific popup js cdn link  -->
+<script src="https://cdnjs.cloudflare.com/ajax/libs/magnific-popup.js/1.1.0/jquery.magnific-popup.min.js"></script>
+
+<script>
+
+$(document).ready(function(){
+
+    $('.buttons').click(function(){
+
+        $(this).addClass('active').siblings().removeClass('active');
+
+        var filter = $(this).attr('data-filter')
+
+        if(filter == 'all'){
+            $('.image').show(400);
+        }else{
+            $('.image').not('.'+filter).hide(200);
+            $('.image').filter('.'+filter).show(400);
+        }
+
+    });
+
+    $('.gallery').magnificPopup({
+
+        delegate:'a',
+        type:'image',
+        gallery:{
+            enabled:true
+        }
+
+    });
+
+});
+
+
+
+function gomeditig2() {
+  window.location.href = "../../index.html";
+}
+
+function gomeditig() {
+  window.location.href = "../photos/index.php";
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</script>
+    
+</body>
+</html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

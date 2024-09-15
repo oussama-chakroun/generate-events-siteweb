@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title></title>
+  <link rel="stylesheet" href="  ./assets/css/index1000.css">
+  <link rel="stylesheet" href="./assets/E-poster/css/glightbox.min.css">
+  <style>
+    .glightbox-clean .gnext,
+    .glightbox-clean .gprev {
+      top: 50%;
+      display: flex;
+    }
+    .listliks {
+      position: absolute;
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: space-between;
+      top: 55vh;
+      left: 0vw;
+      width: 300px;
+    }
+    .listliks li {
+      flex: 0 0 calc(33.33% - 10px);
+      margin-bottom: 10px;
+      list-style: none;
+    }
+
+    .listliks li a {
+      display: block;
+      text-align: center;
+      width: 15vw;
+
+    }
+
+    .listliks li img {
+      width: 100%;
+      height: auto;
+    }
+
+    /* Responsive Styles */
+    @media (max-width: 768px) {
+      .listliks {
+        position: absolute;
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-between;
+        top: 66vh;
+        left: 50vw;
+        width: 31vw;
+      }
+      .listliks li a {
+        width: 40vw;
+      }
+      .listliks li {
+        flex-basis: calc(50% - 10px);
+      }
+    }
+    @media (max-width: 480px) {
+      .listliks li {
+        flex-basis: 100%;
+      }
+
+    }
+
+    li {
+      list-style: none;
+    }
+    #difrent{
+      display: flex;
+    }
+  </style>
+</head>
+
+<body>
+  <img class="background">
+
+  <div class="content">
+
+    <ul class="listliks" >
+      <li><a href="./assets/produit/programe/programe.html" class="portfolio-lightbox "
+          data-gallery="portfolioGallery"><img src="./assets/img/pro.png" alt="" srcset=""></a></li>
+        <li >
+          <a href="./assets/produit/e-poster/index.html" class=""><img
+              src="./assets/img/epo.png" alt="" srcset="">
+          </a>
+              
+          </li>
+          <!-- <li style='display :none;'>
+            <a href="./assets/produit/live.php" class=""><img
+              src="./assets/img/re.png" alt="" srcset=""></a>
+          </li> -->
+      <li style="display: block;">
+        <a href="./assets/produit/index.html" class=""><img
+            src="./assets/img/red.png" alt="" srcset="">
+        </a>
+            
+        </li>
+
+    </ul>
+  </div>
+  <script type="text/javascript" src="./assets/E-poster/js/jquery.min.js"></script>
+  <script type="text/javascript" src="./assets/E-poster/js/bootstrap.min.js"></script>
+  <script src="./assets/E-poster/js/swiper-bundle.min.js"></script>
+  <script src="./assets/E-poster/js/glightbox.min.js" id="glightbox"></script>
+  <script src="./assets/E-poster/js/main.js" id="main"></script>
+</body>
+
+</html>

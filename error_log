@@ -1,0 +1,85 @@
+[16-Aug-2023 10:55:32 UTC] PHP Warning:  require(/home/sourcedartnew/public_html/first-project-source-dart/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/sourcedartnew/public_html/first-project-source-dart/index.php on line 34
+[16-Aug-2023 10:55:32 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/sourcedartnew/public_html/first-project-source-dart/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/sourcedartnew/public_html/first-project-source-dart/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/sourcedartnew/public_html/first-project-source-dart/index.php on line 34
+[16-Aug-2023 10:56:00 UTC] PHP Warning:  require(/home/sourcedartnew/public_html/first-project-source-dart/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/sourcedartnew/public_html/first-project-source-dart/index.php on line 34
+[16-Aug-2023 10:56:00 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/sourcedartnew/public_html/first-project-source-dart/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/sourcedartnew/public_html/first-project-source-dart/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/sourcedartnew/public_html/first-project-source-dart/index.php on line 34
+[16-Aug-2023 10:56:13 UTC] PHP Warning:  require(/home/sourcedartnew/public_html/first-project-source-dart/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/sourcedartnew/public_html/first-project-source-dart/index.php on line 34
+[16-Aug-2023 10:56:13 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/sourcedartnew/public_html/first-project-source-dart/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/sourcedartnew/public_html/first-project-source-dart/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/sourcedartnew/public_html/first-project-source-dart/index.php on line 34
+[16-Aug-2023 10:56:15 UTC] PHP Warning:  require(/home/sourcedartnew/public_html/first-project-source-dart/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/sourcedartnew/public_html/first-project-source-dart/index.php on line 34
+[16-Aug-2023 10:56:15 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/sourcedartnew/public_html/first-project-source-dart/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/sourcedartnew/public_html/first-project-source-dart/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/sourcedartnew/public_html/first-project-source-dart/index.php on line 34
+[16-Aug-2023 10:56:16 UTC] PHP Warning:  require(/home/sourcedartnew/public_html/first-project-source-dart/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/sourcedartnew/public_html/first-project-source-dart/index.php on line 34
+[16-Aug-2023 10:56:16 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/sourcedartnew/public_html/first-project-source-dart/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/sourcedartnew/public_html/first-project-source-dart/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/sourcedartnew/public_html/first-project-source-dart/index.php on line 34
+[16-Aug-2023 10:56:16 UTC] PHP Warning:  require(/home/sourcedartnew/public_html/first-project-source-dart/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/sourcedartnew/public_html/first-project-source-dart/index.php on line 34
+[16-Aug-2023 10:56:16 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/sourcedartnew/public_html/first-project-source-dart/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/sourcedartnew/public_html/first-project-source-dart/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/sourcedartnew/public_html/first-project-source-dart/index.php on line 34
+[16-Aug-2023 10:56:22 UTC] PHP Warning:  require(/home/sourcedartnew/public_html/first-project-source-dart/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/sourcedartnew/public_html/first-project-source-dart/index.php on line 34
+[16-Aug-2023 10:56:22 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/sourcedartnew/public_html/first-project-source-dart/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/sourcedartnew/public_html/first-project-source-dart/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/sourcedartnew/public_html/first-project-source-dart/index.php on line 34
+[16-Aug-2023 10:56:30 UTC] PHP Warning:  require(/home/sourcedartnew/public_html/first-project-source-dart/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/sourcedartnew/public_html/first-project-source-dart/index.php on line 34
+[16-Aug-2023 10:56:30 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/sourcedartnew/public_html/first-project-source-dart/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/sourcedartnew/public_html/first-project-source-dart/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/sourcedartnew/public_html/first-project-source-dart/index.php on line 34
+[16-Aug-2023 10:56:30 UTC] PHP Warning:  require(/home/sourcedartnew/public_html/first-project-source-dart/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/sourcedartnew/public_html/first-project-source-dart/index.php on line 34
+[16-Aug-2023 10:56:30 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/sourcedartnew/public_html/first-project-source-dart/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/sourcedartnew/public_html/first-project-source-dart/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/sourcedartnew/public_html/first-project-source-dart/index.php on line 34
+[16-Aug-2023 10:56:31 UTC] PHP Warning:  require(/home/sourcedartnew/public_html/first-project-source-dart/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/sourcedartnew/public_html/first-project-source-dart/index.php on line 34
+[16-Aug-2023 10:56:31 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/sourcedartnew/public_html/first-project-source-dart/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/sourcedartnew/public_html/first-project-source-dart/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/sourcedartnew/public_html/first-project-source-dart/index.php on line 34
+[16-Aug-2023 10:56:32 UTC] PHP Warning:  require(/home/sourcedartnew/public_html/first-project-source-dart/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/sourcedartnew/public_html/first-project-source-dart/index.php on line 34
+[16-Aug-2023 10:56:32 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/sourcedartnew/public_html/first-project-source-dart/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/sourcedartnew/public_html/first-project-source-dart/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/sourcedartnew/public_html/first-project-source-dart/index.php on line 34
+[16-Aug-2023 10:56:33 UTC] PHP Warning:  require(/home/sourcedartnew/public_html/first-project-source-dart/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/sourcedartnew/public_html/first-project-source-dart/index.php on line 34
+[16-Aug-2023 10:56:33 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/sourcedartnew/public_html/first-project-source-dart/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/sourcedartnew/public_html/first-project-source-dart/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/sourcedartnew/public_html/first-project-source-dart/index.php on line 34
+[16-Aug-2023 10:56:34 UTC] PHP Warning:  require(/home/sourcedartnew/public_html/first-project-source-dart/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/sourcedartnew/public_html/first-project-source-dart/index.php on line 34
+[16-Aug-2023 10:56:34 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/sourcedartnew/public_html/first-project-source-dart/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/sourcedartnew/public_html/first-project-source-dart/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/sourcedartnew/public_html/first-project-source-dart/index.php on line 34
+[16-Aug-2023 10:56:34 UTC] PHP Warning:  require(/home/sourcedartnew/public_html/first-project-source-dart/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/sourcedartnew/public_html/first-project-source-dart/index.php on line 34
+[16-Aug-2023 10:56:34 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/sourcedartnew/public_html/first-project-source-dart/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/sourcedartnew/public_html/first-project-source-dart/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/sourcedartnew/public_html/first-project-source-dart/index.php on line 34
+[16-Aug-2023 10:56:34 UTC] PHP Warning:  require(/home/sourcedartnew/public_html/first-project-source-dart/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/sourcedartnew/public_html/first-project-source-dart/index.php on line 34
+[16-Aug-2023 10:56:34 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/sourcedartnew/public_html/first-project-source-dart/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/sourcedartnew/public_html/first-project-source-dart/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/sourcedartnew/public_html/first-project-source-dart/index.php on line 34
+[16-Aug-2023 10:56:41 UTC] PHP Warning:  require(/home/sourcedartnew/public_html/first-project-source-dart/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/sourcedartnew/public_html/first-project-source-dart/index.php on line 34
+[16-Aug-2023 10:56:41 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/sourcedartnew/public_html/first-project-source-dart/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/sourcedartnew/public_html/first-project-source-dart/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/sourcedartnew/public_html/first-project-source-dart/index.php on line 34
+[16-Aug-2023 10:56:43 UTC] PHP Warning:  require(/home/sourcedartnew/public_html/first-project-source-dart/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/sourcedartnew/public_html/first-project-source-dart/index.php on line 34
+[16-Aug-2023 10:56:43 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/sourcedartnew/public_html/first-project-source-dart/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/sourcedartnew/public_html/first-project-source-dart/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/sourcedartnew/public_html/first-project-source-dart/index.php on line 34
